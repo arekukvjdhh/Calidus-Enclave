@@ -1,0 +1,1 @@
+Written using a template from https://starsector.fandom.com/wiki/Intro_to_Modding. Template did not include any functional code, it was simply for matching the expected formatting for Starsector mods.
